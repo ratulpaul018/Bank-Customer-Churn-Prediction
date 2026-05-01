@@ -15,7 +15,6 @@
 - [Results](#results)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🎯 Overview
@@ -229,9 +228,6 @@ Contributions are welcome! Here's how you can help:
 - Deploy as a web API using Flask/FastAPI
 - Add data augmentation techniques beyond SMOTE
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Contact
 
@@ -247,6 +243,6 @@ Feel free to reach out for questions, suggestions, or collaboration opportunitie
 
 **⭐ If you found this project helpful, please consider giving it a star!**
 
-Made with ❤️ by [Ratul Paul](https://github.com/ratulpaul018)
+Made by [Ratul Paul](https://github.com/ratulpaul018)
 
 </div>
