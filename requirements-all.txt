@@ -1,8 +1,0 @@
-# All Dependencies (Development + Visualization + Testing)
--r requirements-dev.txt
--r requirements-viz.txt
-
-pytest>=6.2.0
-pytest-cov>=2.12.0
-black>=21.0.0
-flake8>=3.9.0
